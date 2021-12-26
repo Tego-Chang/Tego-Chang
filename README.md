@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please find below for the projects I have been working on. Topics include Statistical Modeling, Machine Learning, Natural Language Processing, and Basketball Analytics. 
+Below you can find the projects I have been working on. 
+
+The topics include Statistical Modeling, Machine Learning, Natural Language Processing, and Basketball Analytics.
