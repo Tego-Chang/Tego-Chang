@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Test
+Please find below for the projects I have been working on. Topics include Statistical Modeling, Machine Learning, Natural Language Processing, and Basketball Analytics. 
