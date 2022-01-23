@@ -19,11 +19,11 @@ Below you can find the projects I have been working on.
 
 The topics investigated include: 
 
-- Social Status Analsis and Modeling
+- Social Status Analysis and Modeling
 - Document Classification
 - Marketing Analytics
 - Basketball Analytics
-- Cloud Computing.
+- Cloud Computing
 
 The skillsets used include: 
 
