@@ -17,4 +17,18 @@ Here are some ideas to get you started:
 
 Below you can find the projects I have been working on. 
 
-The topics include Statistical Modeling, Machine Learning, Natural Language Processing, and Basketball Analytics.
+The topics investigated include: 
+
+- Document Classification
+- Marketing Analytics
+- Basketball Analytics
+- Cloud Computing.
+
+The skillsets used include: 
+
+- Statistical Modeling 
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Tableau Visualization
+- Data Query with SQL (Google BigQuery)
