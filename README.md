@@ -19,6 +19,7 @@ Below you can find the projects I have been working on.
 
 The topics investigated include: 
 
+- Social Status Analsis and Modeling
 - Document Classification
 - Marketing Analytics
 - Basketball Analytics
