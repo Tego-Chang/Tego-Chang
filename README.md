@@ -20,15 +20,15 @@ Below you can find the projects I have been working on.
 The topics investigated include: 
 
 - Social Status Analysis and Modeling
+- Marketing Analytics: Recommendation System and Member Lost Prediction
 - Document Classification
-- Marketing Analytics
 - Basketball Analytics
 - Cloud Computing
 
 The skillsets used include: 
 
-- Statistical Modeling 
-- Machine Learning
+- Machine Learning: Supervised and Unspervised
+- Statistical Modeling
 - Deep Learning
 - Natural Language Processing
 - Tableau Visualization
