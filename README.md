@@ -25,7 +25,6 @@ The topics investigated include:
 - Social Status Analysis and Modeling
 - Document Classification
 - Basketball Analytics
-- Cloud Computing
 
 The skillsets used include: 
 
