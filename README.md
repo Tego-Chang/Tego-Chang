@@ -19,16 +19,19 @@ Below you can find the projects I have been working on.
 
 The topics investigated include: 
 
+- Causal Effects in the Hospitality Industry
+- Customer Segmentation and Member Lost Prediction
+- Recommendation System 
 - Social Status Analysis and Modeling
-- Marketing Analytics: Recommendation System and Member Lost Prediction
 - Document Classification
 - Basketball Analytics
 - Cloud Computing
 
 The skillsets used include: 
 
-- Machine Learning: Supervised and Unspervised
+- Machine Learning: Supervised, Unspervised, and Semi-supervised
 - Statistical Modeling
+- Causal Inference
 - Deep Learning
 - Natural Language Processing
 - Tableau Visualization
