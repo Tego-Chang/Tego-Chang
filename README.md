@@ -26,7 +26,7 @@ The topics investigated include:
 - Document Classification
 - Basketball Analytics
 
-The skillsets used include: 
+The skills used include: 
 
 - Machine Learning: Supervised, Unspervised, and Semi-supervised
 - Statistical Modeling
